@@ -1,0 +1,23 @@
+{
+    "name": "Moztendencias.com",
+    "short_name": "Moztendencias",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkqBk8rHVUGF4o8P17PGhfLxXKmbp7cPZBzJsNCd8jJDy1fqFkno9TtJfv3f6OPkeS-adCuZUI6m-pZruYIcvPp1qOEGI5sJEBbPlOFBpV6hiOD6K69z_ot3VF20BKzHWHl3Nmgz5_4VBvJ2zNE1VJPWAF8zEnpwUOYUciZGRZYB_iYXDa_gBl7Ypqhw/s1600/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZ0uUqjiiSM5u5cvYeglrhX1npgBXUhws1xRu4PryJA_uAq7bdRelqjxWOqUNZ1CMUHK87AD7OwAjocYqbUK8TX-Owo2Fe4QCeC7LN06mwi7C1XpF4JIzCI3AEWw07m5O2E_MIoSR1E2gu63FnzjCPqCozkSH70Xvc_-jTKPAmCuBwkRppXablVk9Gg/s320/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.moztendencias.com"
+}
